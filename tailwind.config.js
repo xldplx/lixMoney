@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       dropShadow: {
-        'half-black': '0px 0px 40px rgba(0, 0, 0, 0.50)',
+        'half-black': '0px 0px 20px rgba(0, 0, 0, 0.2)',
       }
     },
   },
